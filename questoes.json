@@ -1,0 +1,502 @@
+[
+  {
+    "id": 1787086955539,
+    "materia": "Raciocínio Lógico Militar",
+    "assunto": "Probabilidade",
+    "pergunta": "Diogo possui em sua coleção de video games: 4 de aventura, 4 de luta e 2 de esportes. Supondo que desses 10 jogos, ele escolha dois aleatoriamente, e considerando que a ordem dos jogos não importa, a probabilidade de escolher um jogo de luta e um de esportes é de:",
+    "alternativas": [
+      "4/5",
+      "8/45",
+      "4/45",
+      "6/25",
+      "1/30"
+    ],
+    "respostaCorreta": 1
+  },
+  {
+    "id": 1787104296492,
+    "materia": "Raciocínio Lógico Militar",
+    "assunto": "Probabilidade",
+    "pergunta": "Em uma caixa há 4 cartões amarelos e 6 cartões vermelhos. Foram retirados, aleatoriamente, 2 cartões da caixa. A probabilidade de os dois cartões retirados serem vermelhos é de:",
+    "alternativas": [
+      "1/2.",
+      "1/3.",
+      "1/4.",
+      "1/5.",
+      "1/6."
+    ],
+    "respostaCorreta": 1
+  },
+  {
+    "id": 1788008182617,
+    "materia": "Raciocínio Lógico Militar",
+    "assunto": "Probabilidade",
+    "pergunta": "ALESSANDRA escreveu em 10 cartões diferentes cada uma das 10 letras do seu nome e colocou esses cartões em uma urna. A seguir, ela retirou, aleatoriamente e em sequência, 3 cartões da urna.\nA probabilidade de que ALESSANDRA tenha retirado os 3 cartões com a letra “A” é:",
+    "alternativas": [
+      "1/120",
+      "7/120",
+      "1/40",
+      "3/10",
+      "3/7"
+    ],
+    "respostaCorreta": 0
+  },
+  {
+    "id": 1787086837892,
+    "materia": "Raciocínio Lógico Militar",
+    "assunto": "Probabilidade",
+    "pergunta": "Em uma caixa, há 20 mouses, sendo 12 pretos e 8 brancos. Se uma pessoa retirar dois mouses dessa caixa, um de cada vez e colocar o retirado de volta na caixa, qual é a probabilidade de o primeiro ser preto e o segundo ser branco?",
+    "alternativas": [
+      "18%",
+      "32%",
+      "24%",
+      "50%",
+      "46%"
+    ],
+    "respostaCorreta": 2
+  },
+  {
+    "id": 1787087014835,
+    "materia": "Raciocínio Lógico Militar",
+    "assunto": "Tabela Verdade",
+    "pergunta": "Considere as seguintes proposições:\n\n\n\nI. Eloise é Técnica de Informação;\n\nII. Enzo não é Técnico Eletrônico;\n\nIII. Se Eloise é Técnica de Informação, então Enzo é Técnico Eletrônico.\n\n\n\nSe a proposição III é verdadeira, é correto concluir que",
+    "alternativas": [
+      "I não pode ser falsa.",
+      "II não pode ser falsa.",
+      "II não pode ser verdadeira.",
+      "I e II não podem ser, ambas, verdadeiras.",
+      "I e II não podem ser, ambas, falsas."
+    ],
+    "respostaCorreta": 3
+  },
+  {
+    "id": 1787087113643,
+    "materia": "Raciocínio Lógico Militar",
+    "assunto": "Diagramas Lógicos",
+    "pergunta": "Em certo planeta, todos os Aleves são Bleves, todos os Cleves são Bleves, todos os Dleves são Aleves, e todos os Cleves são Dleves. Sobre os habitantes desse planeta, é correto afirmar que",
+    "alternativas": [
+      "Todos os Dleves são Bleves e são Cleves.",
+      "Todos os Bleves são Cleves e são Dleves.",
+      "Todos os Aleves são Cleves e são Dleves.",
+      "Todos os Cleves são Aleves e são Bleves.",
+      "Todos os Aleves são Dleves e alguns Aleves podem não ser Cleves."
+    ],
+    "respostaCorreta": 3
+  },
+  {
+    "id": 1787087468732,
+    "materia": "Raciocínio Lógico Militar",
+    "assunto": "Lógica de Argumentação",
+    "pergunta": "I. Se chover no Ibura, então chove no Jordão;\nII. Se chover no Jordão, então chove em Areias;\nIII. Se chover em Areias, então chove em Prazeres;\nIV. Se chover em Prazeres, então chove no Ibura.\n\nAnalisando as afirmações, é possível concluir-se correntamente que:",
+    "alternativas": [
+      "Se não chover no Ibura, então não chove em Areias.",
+      "Pode chover em apenas 1 (um) bairro.",
+      "Pode chover em exatamente 2(dois) bairros.",
+      "Pode não chover em exatamente 3(três) bairros.",
+      "Se não chover em um bairro, nada se pode concluir em relação aos demais bairros."
+    ],
+    "respostaCorreta": 0
+  },
+  {
+    "id": 1787104463053,
+    "materia": "Raciocínio Lógico Militar",
+    "assunto": "Lógica de Argumentação",
+    "pergunta": "Considere as premissas abaixo referentes à organização de uma operação no quartel:\n\nO Tenente está em patrulha ou o Sargento está na guarda.\n\nO recruta é da infantaria e o sentinela não é veterano.\n\nSe o Capitão está em reunião, então o Tenente não está em patrulha.\n\nSe o Capitão está em reunião, então o Tenente não está em patrulha.\n\nAssinale a alternativa que apresenta uma conclusão válida somente com essas premissas:",
+    "alternativas": [
+      "Se o Tenente está em patrulha, então o Capitão não está em reunião.",
+      "O recruta é da infantaria e o Sargento está na guarda.",
+      "O sentinela é veterano e o Capitão está em reunião.",
+      "Se o Sargento está na guarda, então o Tenente está em patrulha.",
+      "O sentinela é da infantaria e o recruta é veterano."
+    ],
+    "respostaCorreta": 0
+  },
+  {
+    "id": 1787105916668,
+    "materia": "Raciocínio Lógico Militar",
+    "assunto": "Lógica de Argumentação",
+    "pergunta": "Sabe-se que:\n\nI. se Mauro não é baiano então Jair é cearense.\nII. se Jair não é cearense então Angélica é pernambucana.\nIII. Mauro não é baiano ou Angélica não é pernambucana.\n\nÉ necessariamente verdade que",
+    "alternativas": [
+      "Mauro não é baiano.",
+      "Angélica não é pernambucana.",
+      "Jair não é cearense.",
+      "Angélica é pernambucana.",
+      "Jair é cearense."
+    ],
+    "respostaCorreta": 4
+  },
+  {
+    "id": 1787105896765,
+    "materia": "Raciocínio Lógico Militar",
+    "assunto": "Lógica de Argumentação",
+    "pergunta": "Considere as afirmações:\n\nI. O alarme foi acionado. \n\nII. Há emergência se e somente se o sistema é ativado. \n\nIII. O sistema é ativado se e somente se o sistema estiver ligado e o alarme foi acionado.\n\nSabendo que o sistema estava ligado, é logicamente CORRETO afirmar que",
+    "alternativas": [
+      "Há ou houve emergência.",
+      "Não há ou não houve emergência.",
+      "Pode ou não ter havido emergência.",
+      "Não pode ter havido emergência.",
+      "Poderia mas não houve emergência."
+    ],
+    "respostaCorreta": 0
+  },
+  {
+    "id": 1787087997954,
+    "materia": "Raciocínio Lógico Militar",
+    "assunto": "Probabilidade",
+    "pergunta": "Maria colocou, em uma caixa, papéis numerados de 1 a 10. Qual a probabilidade de Maria retirar um papel ao acaso e ele ser par ou menor do que 6?",
+    "alternativas": [
+      "30%",
+      "50%",
+      "80%",
+      "70%",
+      "NDA"
+    ],
+    "respostaCorreta": 2
+  },
+  {
+    "id": 1787088084962,
+    "materia": "Raciocínio Lógico Militar",
+    "assunto": "Tabela Verdade",
+    "pergunta": "Se P,Q e S são proposições verdadeiras, então  o valor lógico de (P V Q ) -> ~ S é:",
+    "alternativas": [
+      "Falso",
+      "Verdadeiro",
+      "Duvidoso",
+      "Impossível de saber"
+    ],
+    "respostaCorreta": 0
+  },
+  {
+    "id": 1787088177530,
+    "materia": "Raciocínio Lógico Militar",
+    "assunto": "Tabela Verdade",
+    "pergunta": "Dadas duas proposições, sabendo que a proposição composta P v Q é falsa, é correto afirmar que:",
+    "alternativas": [
+      "P é falsa E Q é verdadeira.",
+      "Q é falsa e P é verdadeira.",
+      "Ambas são verdadeiras.",
+      "Ambas são falsas.",
+      "P é verdadeira e Q pode ser verdadeira ou falsa."
+    ],
+    "respostaCorreta": 3
+  },
+  {
+    "id": 1787088315954,
+    "materia": "Raciocínio Lógico Militar",
+    "assunto": "Diagramas Lógicos",
+    "pergunta": "Considere as afirmativas a seguir.\n\n- “Alguns homens jogam xadrez”.\n- “Quem joga xadrez tem bom raciocínio”.\nA partir dessas afirmações, é correto concluir que",
+    "alternativas": [
+      "“Todos os homens têm bom raciocínio”",
+      "“Mulheres não jogam xadrez”.",
+      "“Quem tem bom raciocínio joga xadrez”",
+      "“Homem que não tem bom raciocínio não joga xadrez”.",
+      "“Quem não joga xadrez não tem bom raciocínio”."
+    ],
+    "respostaCorreta": 4
+  },
+  {
+    "id": 1787088410770,
+    "materia": "Raciocínio Lógico Militar",
+    "assunto": "Diagramas Lógicos",
+    "pergunta": "Considere verdadeira a afirmação:\n\n“Todo vegetal verde é saudável.”\n\nÉ correto concluir que:",
+    "alternativas": [
+      "Todo vegetal saudável é verde",
+      "Todo vegetal que não é saudável não é verde",
+      "Todo vegetal que não é verde não é saudável.",
+      "Alguns vegetais verdes não são saudáveis",
+      "Alguns vegetais que não são saudáveis são verdes."
+    ],
+    "respostaCorreta": 2
+  },
+  {
+    "id": 1787102924108,
+    "materia": "Raciocínio Lógico Militar",
+    "assunto": "Verdades e Mentiras",
+    "pergunta": "Quando a mãe de Alysson, Bosco, Carlos e Daniel, chega em casa, verifica que seu vaso preferido havia sido quebrado. Interrogados pela mãe, eles fazem as seguintes declarações:\n\n“Mãe, o Bosco foi quem quebrou” – disse Alysson\n“Como sempre, o Daniel foi o culpado” – disse Bosco\n“Mãe, sou inocente” – disse Carlos\n“Claro que o Bosco está mentindo” – disse Daniel\nSabendo que três mentiram, quem quebrou o vaso:",
+    "alternativas": [
+      "Alysson",
+      "Bosco",
+      "Carlos",
+      "Daniel",
+      "NDA"
+    ],
+    "respostaCorreta": 2
+  },
+  {
+    "id": 1787102941772,
+    "materia": "Raciocínio Lógico Militar",
+    "assunto": "Verdades e Mentiras",
+    "pergunta": "Quando a mãe de Alysson, Bosco, Carlos e Daniel, chega em casa, verifica que seu vaso preferido havia sido quebrado. Interrogados pela mãe, eles fazem as seguintes declarações:\n\n\n“Mãe, o Bosco foi quem quebrou” – disse Alysson\n“Como sempre, o Daniel foi o culpado” – disse Bosco\n“Mãe, sou inocente” – disse Carlos\n“Claro que o Bosco está mentindo” – disse Daniel\n\nSabendo que três falaram a verdade, quem quebrou o vaso:",
+    "alternativas": [
+      "Alysson",
+      "Bosco",
+      "Carlos",
+      "Daniel",
+      "NDA"
+    ],
+    "respostaCorreta": 1
+  },
+  {
+    "id": 1787102957476,
+    "materia": "Raciocínio Lógico Militar",
+    "assunto": "Verdades e Mentiras",
+    "pergunta": "Certo dia, Pedro entra em casa com seus amigos Bruno, Márcio e Luiz. Eles passam pela sala onde está, sobre a mesa, um bolo que Clara, mãe de Pedro, tinha feito para o aniversário da filha. Minutos depois, Clara passa pela sala e vê que o brigadeiro que estava em cima do bolo tinha desaparecido. Ela chama imediatamente os quatro meninos e pergunta quem roubou o brigadeiro do bolo. Cada um disse o seguinte:\n\nMárcio: Foi Bruno quem pegou o brigadeiro. \nPedro: Não fui eu. \nLuiz: Márcio pegou o brigadeiro. \nBruno: Luiz mentiu. \nSabendo que um deles mentiu e os outros disseram a verdade, pode-se concluir que:",
+    "alternativas": [
+      "Bruno pegou o brigadeiro.",
+      "Luiz pegou o brigadeiro.",
+      "Pedro pegou o brigadeiro.",
+      "Marcio é o mentiroso.",
+      "Pedro é o mentiroso."
+    ],
+    "respostaCorreta": 0
+  },
+  {
+    "id": 1787105956085,
+    "materia": "Raciocínio Lógico Militar",
+    "assunto": "Verdades e Mentiras",
+    "pergunta": "Paulo, Lucas, Sandro, Rogério e Vitor são suspeitos de terem furtado a bicicleta de uma pessoa. Na delegacia: \n\n • Vitor afirmou que não tinha sido nem ele nem Rogério;\n• Sandro jurou que o ladrão era Rogério ou Lucas; \n• Rogério disse que tinha sido Paulo; \n• Lucas disse ter sido Paulo ou Vitor; \n• Paulo termina dizendo que Sandro é um mentiroso. \nSabe-se que um e apenas um deles mentiu. Sendo assim, a pessoa que furtou a bicicleta foi:",
+    "alternativas": [
+      "Lucas",
+      "Sandro",
+      "Rogério",
+      "Vitor",
+      "Paulo"
+    ],
+    "respostaCorreta": 4
+  },
+  {
+    "id": 1787835896266,
+    "materia": "Raciocínio Lógico Militar",
+    "assunto": "Probabilidade",
+    "pergunta": "Em uma caixa há 2 bolas brancas e 4 bolas pretas. Retirando, ao acaso 2 bolas, a probabilidade de que elas sejam de cores diferentes é de",
+    "alternativas": [
+      "2/5",
+      "5/8",
+      "5/9",
+      "7/12",
+      "8/15"
+    ],
+    "respostaCorreta": 4
+  },
+  {
+    "id": 1787835963172,
+    "materia": "Raciocínio Lógico Militar",
+    "assunto": "Probabilidade",
+    "pergunta": "Uma urna contém 3 bolas de cor azul, 2 bolas de cor verde e 1 bola de cor vermelha. Ao retirar aleatoriamente 2 bolas dessa urna, sem reposição entre as retiradas, qual a probabilidade de que as bolas retiradas sejam as duas verdes?",
+    "alternativas": [
+      "1/10",
+      "1/15",
+      "1/20",
+      "1/30"
+    ],
+    "respostaCorreta": 1
+  },
+  {
+    "id": 1787837473453,
+    "materia": "Raciocínio Lógico Militar",
+    "assunto": "Probabilidade",
+    "pergunta": "Numa urna existem 12 bolas do mesmo tamanho, sendo que 2 são pretas, 6 são azuis e 4 são vermelhas. O experimento consiste em retirar duas boas em dois sorteios consecutivos, sem reposição. Dessa forma, a probabilidade de se retirar duas bolas de mesma cor corresponde a:",
+    "alternativas": [
+      "11/36",
+      "1/3",
+      "11/72",
+      "1/6"
+    ],
+    "respostaCorreta": 1
+  },
+  {
+    "id": 1787840712928,
+    "materia": "Raciocínio Lógico Militar",
+    "assunto": "Probabilidade",
+    "pergunta": "Duas urnas contêm cinco bolas cada uma. Uma delas contém duas bolas brancas e três pretas e a outra contém três bolas brancas e duas pretas. Retiram-se, aleatoriamente, uma bola de cada urna. A probabilidade de uma das duas bolas retiradas ser branca e a outra ser preta é de",
+    "alternativas": [
+      "1/2",
+      "1/5",
+      "6/25",
+      "12/25",
+      "13/25"
+    ],
+    "respostaCorreta": 4
+  },
+  {
+    "id": 1788007344641,
+    "materia": "Raciocínio Lógico Militar",
+    "assunto": "Probabilidade",
+    "pergunta": "O professor Marcelo levou para sala de aula duas urnas. Na urna A tinham cinco bolas numeradas de 1 a 5 e na urna B tinham dez bolas numeradas de 1 a 10. Todas as bolas de mesmo tamanho e peso. Um aluno foi chamado para retirar uma bola da urna A e uma bola da urna B. Qual a probabilidade de que a soma dos números retirados seja um múltiplo de 6?",
+    "alternativas": [
+      "12%",
+      "14%",
+      "16%",
+      "18%",
+      "20%"
+    ],
+    "respostaCorreta": 3
+  },
+  {
+    "id": 1788007385039,
+    "materia": "Raciocínio Lógico Militar",
+    "assunto": "Probabilidade",
+    "pergunta": "Uma urna contém 10 bolas numeradas de 1 a 10. Três dessas bolas são sorteados aleatoriamente. A probabilidade de o produto dos três números sorteados ser ímpar é :",
+    "alternativas": [
+      "1/12",
+      "1/10",
+      "1/8",
+      "1/4",
+      "1/2"
+    ],
+    "respostaCorreta": 0
+  },
+  {
+    "id": 1788007422791,
+    "materia": "Raciocínio Lógico Militar",
+    "assunto": "Probabilidade",
+    "pergunta": "Uma urna contém 10 bolas numeradas de 1 a 10. Três dessas bolas são sorteados aleatoriamente. A probabilidade de o produto dos três números sorteados ser ímpar é :",
+    "alternativas": [
+      "1/2",
+      "4/9",
+      "5/9",
+      "20/81",
+      "61/81"
+    ],
+    "respostaCorreta": 4
+  },
+  {
+    "id": 1788781864867,
+    "materia": "Raciocínio Lógico Militar",
+    "assunto": "Diagramas Lógicos",
+    "pergunta": "Se todo A é B e nenhum B é C, é possível concluir, corretamente, que:",
+    "alternativas": [
+      "nenhum B é A.",
+      "nenhum A é C.",
+      "todo A é C.",
+      "todo C é B.",
+      "todo B é A"
+    ],
+    "respostaCorreta": 1
+  },
+  {
+    "id": 1788781938778,
+    "materia": "Raciocínio Lógico Militar",
+    "assunto": "Diagramas Lógicos",
+    "pergunta": "(SEAP-PR/2021) Analise as afirmativas abaixo:\n\nI. Todo A é B. \nII. Todo C é B. \nIII. Algum C é A. \n\nAssinale a alternativa incorreta.",
+    "alternativas": [
+      "Pode haver B que não é C",
+      "Pode haver C que é A",
+      "Nenhum B é C",
+      "Pode haver B que não é A",
+      "Pode haver C que não é A"
+    ],
+    "respostaCorreta": 2
+  },
+  {
+    "id": 1790599385732,
+    "materia": "Raciocínio Lógico Militar",
+    "assunto": "Diagramas Lógicos",
+    "pergunta": "Considere verdadeiras as seguintes afirmações: \n\n• Todo professor é formado. \n• Nenhum formado é estrangeiro.\n\nAssinale a alternativa correta:",
+    "alternativas": [
+      "Algum professor é estrangeiro",
+      "Todo formado é professor",
+      "Nenhum professor é estrangeiro",
+      "Todo professor é estrangeiro"
+    ],
+    "respostaCorreta": 2
+  },
+  {
+    "id": 1790598515636,
+    "materia": "Raciocínio Lógico Militar",
+    "assunto": "Lógica de Argumentação",
+    "pergunta": "Considere que em uma estante estão três livros, A, B e C, e que:\n\n\n\nI. “Se o livro A é de Física, então o livro B não é de Matemática.”;\n\nII. “Se o livro A não é de Física, então o livro C é de Química.”\n\n\n\nSabendo que o livro B é de Matemática, então, com certeza, é correto afirmar que",
+    "alternativas": [
+      "o livro A é de Física.",
+      "o livro B é de Matemática e o livro A é de Física.",
+      "o livro A é de Física ou o livro C não é de Química.",
+      "o livro C é de Química.",
+      "o livro B é de Matemática e o livro C não é de Química."
+    ],
+    "respostaCorreta": 3
+  },
+  {
+    "id": 1790598596514,
+    "materia": "Raciocínio Lógico Militar",
+    "assunto": "Lógica de Argumentação",
+    "pergunta": "Se Fábio comprar um CD para Glória, então Glória não vai ao teatro. Se Glória não vai ao teatro, então Helena fica em casa. Se Helena fica em casa, então Igor não compra um CD para Helena. Se Igor comprou um CD para Helena, então",
+    "alternativas": [
+      "Glória vai ao teatro e Fábio compra um CD para Helena.",
+      "Helena não fica em casa e Fábio não compra um CD para Glória.",
+      "Glória vai ao teatro e Fábio compra um CD para Glória.",
+      "Helena fica em casa e Glória não vai ao teatro.",
+      "Helena não fica em casa e Fábio compra um CD para Igor."
+    ],
+    "respostaCorreta": 1
+  },
+  {
+    "id": 1790598666234,
+    "materia": "Raciocínio Lógico Militar",
+    "assunto": "Lógica de Argumentação",
+    "pergunta": "Quatro aviões de transporte de passageiros, identificados por A, B, C e D, estão sobrevoando um aeroporto e aguardando uma mensagem da torre de comando, a qual informará em qual pista cada avião deve pousar. Na torre de comando, verificadas as variáveis para cada um dos aviões, foi constatado que:\n\n\n\n• se o avião A não deve pousar na pista 3, então o avião B não deve pousar na pista 2;\n\n• se o avião B não deve pousar na pista 2, então o avião C deve pousar na pista 3;\n\n• se o avião C deve pousar na pista 3, então o avião D não deve pousar na pista 1.\n\n\n\nApós analisar essas condicionais, a mensagem foi enviada para cada um dos aviões, sendo que, nessa mensagem, foi determinado que o avião D deve pousar na pista 1. Com base nessas informações, é correto afirmar que",
+    "alternativas": [
+      "o avião A não deve pousar na pista 3.",
+      "o avião A deve pousar na pista 1.",
+      "o avião B deve pousar na pista 2.",
+      "o avião A deve pousar na pista 2.",
+      "o avião B não deve pousar na pista 2."
+    ],
+    "respostaCorreta": 2
+  },
+  {
+    "id": 1790598754554,
+    "materia": "Raciocínio Lógico Militar",
+    "assunto": "Lógica de Argumentação",
+    "pergunta": "Compro uma casa ou compro um apartamento. Viajo ou não compro uma casa. Vou morar no exterior ou não compro um apartamento. Bem, eu não vou morar no exterior. Então:",
+    "alternativas": [
+      "não viajo e compro uma casa.",
+      "viajo e compro uma casa.",
+      "não vou morar no exterior e não viajo.",
+      "compro um apartamento e não viajo.",
+      "compro um apartamento e viajo."
+    ],
+    "respostaCorreta": 1
+  },
+  {
+    "id": 1790598847267,
+    "materia": "Raciocínio Lógico Militar",
+    "assunto": "Lógica de Argumentação",
+    "pergunta": "Considere verdadeiras as seguintes afirmações:\nI. sou policial ou não sou Legista; II. sou Médico ou sou Legista; III. sou perito ou não sou Médico.\nSe não sou policial, então,",
+    "alternativas": [
+      "não sou perito e sou médico.",
+      "sou perito e sou médico.",
+      "sou legista e sou perito",
+      "não sou policial e não sou perito.",
+      "sou legista e não sou perito."
+    ],
+    "respostaCorreta": 1
+  },
+  {
+    "id": 1790599041491,
+    "materia": "Raciocínio Lógico Militar",
+    "assunto": "Probabilidade",
+    "pergunta": "Maria ganhou de João nove pulseiras, quatro delas de prata e cinco delas de ouro. Maria ganhou de Pedro onze pulseiras, oito delas de prata e três delas de ouro. Maria guarda todas essas pulseiras - e apenas essas - em sua pequena caixa de jóias. Uma noite, arrumando-se apressadamente para ir ao cinema com João, Maria retira, ao acaso, uma pulseira de sua pequena caixa de jóias. Ela vê, então, que retirou uma pulseira de prata. Levando em conta tais informações, a probabilidade de que a pulseira de prata que Maria retirou seja uma das pulseiras que ganhou de João é igual a",
+    "alternativas": [
+      "1/3.",
+      "1/5.",
+      "9/20.",
+      "4/5.",
+      "3/5."
+    ],
+    "respostaCorreta": 0
+  },
+  {
+    "id": 1790599117211,
+    "materia": "Raciocínio Lógico Militar",
+    "assunto": "Probabilidade",
+    "pergunta": "Em um escritório trabalham 10 funcionários: 5 do sexo feminino e 5 do sexo masculino. Dispõe-se de 10 fichas numeradas de 1 a 10, que serão usadas para sortear dois prêmios entre esses funcionários e, para tal, cada mulher receberá uma ficha numerada de 1 a 5, enquanto que cada homem receberá uma numerada de 6 a 10. Se, para o sorteio, as fichas das mulheres forem colocadas em uma urna M e as dos homens em uma urna H, então, ao sortear-se uma ficha de cada urna, a probabilidade de que em pelo menos uma delas esteja marcado um número ímpar é de",
+    "alternativas": [
+      "24%.",
+      "38%.",
+      "52%.",
+      "68%.",
+      "76%."
+    ],
+    "respostaCorreta": 4
+  }
+]
