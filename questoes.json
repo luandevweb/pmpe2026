@@ -623,5 +623,19 @@
       "E) 10 anagramas."
     ],
     "respostaCorreta": 2
+  },
+  {
+    "id": 1791846257678,
+    "materia": "Raciocínio Lógico Militar",
+    "assunto": "Análise Combinatória",
+    "pergunta": "Uma pessoa possui 4 calças diferentes e 8 camisas diferentes. Sabendo que ela escolherá uma calça e uma camisa para se vestir, de quantas formas distintas ela poderá se vestir?",
+    "alternativas": [
+      "A) 12 formas.",
+      "B) 16 formas.",
+      "C) 24 formas.",
+      "D) 32 formas.",
+      "E) 36 formas."
+    ],
+    "respostaCorreta": 3
   }
 ]
