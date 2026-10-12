@@ -498,5 +498,130 @@
       "76%."
     ],
     "respostaCorreta": 4
+  },
+  {
+    "id": 1791844803077,
+    "materia": "Raciocínio Lógico Militar",
+    "assunto": "Probabilidade",
+    "pergunta": "Numa urna vazia foram colocadas 16 bolas vermelhas numeradas de 1 a 16 e foram colocadas 20 bolas azuis numeradas de 1 a 20. a probabilidade de sorteamos uma bola dessa urna e nela constar um número maior que 11, sabendo que ela é vermelha, é igual a:",
+    "alternativas": [
+      "A) 5/32",
+      "b) 14/32",
+      "c) 6/16",
+      "d) 5/16"
+    ],
+    "respostaCorreta": 3
+  },
+  {
+    "id": 1791844865827,
+    "materia": "Raciocínio Lógico Militar",
+    "assunto": "Probabilidade",
+    "pergunta": "Num sorteio concorrem bilhetes numerados de 1 a 500. Foi sorteado um bilhete e foi dada a informação de que saiu um número múltiplo de 5. A probabilidade de o número sorteado ser o 150 é:",
+    "alternativas": [
+      "a) 1%",
+      "b) 5%",
+      "c) 10%",
+      "d) 15%",
+      "e) 20%"
+    ],
+    "respostaCorreta": 0
+  },
+  {
+    "id": 1791844930284,
+    "materia": "Raciocínio Lógico Militar",
+    "assunto": "Probabilidade",
+    "pergunta": "Um aluno possui dois potes com algumas balas. no pote A ele possui 10 balas de menta e 14 balas de morango. no pote B ele possui 18 balas de menta e 6 balas de morango.\nSe a bala retirada for de morango, a probabilidade de ela ter sido escolhida do pote A é:",
+    "alternativas": [
+      "A) 0,70.",
+      "b) 0,80.",
+      "c) 0,75.",
+      "d) 0,60.",
+      "e) 0,65."
+    ],
+    "respostaCorreta": 0
+  },
+  {
+    "id": 1791844993580,
+    "materia": "Raciocínio Lógico Militar",
+    "assunto": "Probabilidade",
+    "pergunta": "Uma urna contém 50 cartões numerados, sendo que os numerados de 1 a 20 são cartões de cor azul e os numerados de 21 a 50 são de cor vermelha. Um desses cartões foi sorteado ao acaso. A pessoa que realizou o sorteio mostrou que o cartão sorteado era azul, logo, a probabilidade de que o número que está nesse catão seja múltiplo de 3, é:",
+    "alternativas": [
+      "a) 15%.",
+      "b) 35%.",
+      "c) 30%.",
+      "d) 25%.",
+      "e) 20%."
+    ],
+    "respostaCorreta": 2
+  },
+  {
+    "id": 1791845031372,
+    "materia": "Raciocínio Lógico Militar",
+    "assunto": "Probabilidade",
+    "pergunta": "Em uma escola, foi feito o sorteio de um brinde para os professores e alunos. Participaram do sorteio 4 professoras, 3 professores e todos os alunos de um turma de 30, com 18 meninas e 12 meninos. Sabendo que dentre os participantes foi sorteada aleatoriamente uma pessoa do sexo feminino, a probabilidade de ser uma professora é de:",
+    "alternativas": [
+      "a) 2/15",
+      "b) 2/9",
+      "c) 2/11",
+      "d) 4/37",
+      "e) 1/5"
+    ],
+    "respostaCorreta": 2
+  },
+  {
+    "id": 1791845240124,
+    "materia": "Raciocínio Lógico Militar",
+    "assunto": "Análise Combinatória",
+    "pergunta": "Uma equipe de segurança pública será formada para atuar em uma operação antifacção. Estão disponíveis 6 policiais militares e 4 policiais civis. Deseja-se formar uma equipe com 5 policiais, de modo que ela seja composta por um número maior de policiais militares do que de policiais civis e tenha, obrigatoriamente, pelo menos 1 policial civil.\n\nConsiderando que a ordem de escolha dos policiais não importa, quantas equipes diferentes podem ser formadas?",
+    "alternativas": [
+      "120 equipes",
+      "150 equipes",
+      "180 equipes",
+      "186 equipes",
+      "240 equipes"
+    ],
+    "respostaCorreta": 2
+  },
+  {
+    "id": 1791845349668,
+    "materia": "Raciocínio Lógico Militar",
+    "assunto": "Análise Combinatória",
+    "pergunta": "Em um grupo de 10 pessoas, há 6 mulheres e 4 homens. Deseja-se formar uma equipe com 6 integrantes, de modo que o número de mulheres seja igual ao número de homens. De quantas maneiras diferentes essa equipe pode ser formada?",
+    "alternativas": [
+      "a) 30 maneiras",
+      "b) 60 maneiras",
+      "c) 80 maneiras",
+      "d) 120 maneiras",
+      "e) 180 maneiras"
+    ],
+    "respostaCorreta": 2
+  },
+  {
+    "id": 1791845495253,
+    "materia": "Raciocínio Lógico Militar",
+    "assunto": "Análise Combinatória",
+    "pergunta": "Quantos anagramas distintos podemos formar com as letras da palavra ARARA?",
+    "alternativas": [
+      "A) 5 anagramas.",
+      "B) 10 anagramas.",
+      "C) 20 anagramas.",
+      "D) 30 anagramas.",
+      "E) 60 anagramas."
+    ],
+    "respostaCorreta": 1
+  },
+  {
+    "id": 1791845597957,
+    "materia": "Raciocínio Lógico Militar",
+    "assunto": "Análise Combinatória",
+    "pergunta": "Quantos anagramas distintos podemos formar com a palavra ARARA, de modo que as duas letras R permaneçam sempre juntas (RR)?",
+    "alternativas": [
+      "A) 2 anagramas.",
+      "B) 3 anagramas.",
+      "C) 4 anagramas.",
+      "D) 6 anagramas.",
+      "E) 10 anagramas."
+    ],
+    "respostaCorreta": 2
   }
 ]
